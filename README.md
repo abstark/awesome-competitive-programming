@@ -106,7 +106,7 @@ Share the list with your classmates, your friends and everyone :)
 | ★★☆ | [UIUC Algorithm Course](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/) | lecture notes, homeworks, exams, and discussion problems covering a broad range of algorithmic topics |
 
 
-## Books
+## Books to read
 > A list of recommended books for competitive programming.
 
 | ☆ | Name | Description |
